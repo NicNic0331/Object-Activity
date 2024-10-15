@@ -11,4 +11,4 @@ let car = {
   console.log(car); // Logs "{ type: 'Toyota', model: 'Honda CR-V', color: 'Red' }
   
   car.wheels = "4";  // Add a new property wheels with the value 4
-  console.log(car); // Logs "{ type: 'Toyota', model: 'Honda CR-V', color: 'Red', wheels: 4 }"
+  console.log(car); // Logs "{ type: 'Toyota', model: 'Honda CR-V', color: 'Red', wheels: "4" }"
